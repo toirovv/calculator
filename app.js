@@ -1,1 +1,1 @@
-const myCalculator = (son1, son2, operator, son3) => {};
+const myCalculator = (son1, son2, operator) => {};
