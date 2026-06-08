@@ -12,3 +12,6 @@ const myCalculator = (son1, son2, operator) => {
   }
 };
 console.log(myCalculator(10, 5, "+"));
+console.log(myCalculator(10, 5, "-"));
+console.log(myCalculator(10, 5, "/"));
+console.log(myCalculator(10, 5, "*"));
